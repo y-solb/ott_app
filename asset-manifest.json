@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ott_app/static/css/main.9a8fa36f.chunk.css",
+    "main.js": "/ott_app/static/js/main.4404d8c3.chunk.js",
+    "main.js.map": "/ott_app/static/js/main.4404d8c3.chunk.js.map",
+    "runtime-main.js": "/ott_app/static/js/runtime-main.f087ce59.js",
+    "runtime-main.js.map": "/ott_app/static/js/runtime-main.f087ce59.js.map",
+    "static/js/2.47dcf1af.chunk.js": "/ott_app/static/js/2.47dcf1af.chunk.js",
+    "static/js/2.47dcf1af.chunk.js.map": "/ott_app/static/js/2.47dcf1af.chunk.js.map",
+    "index.html": "/ott_app/index.html",
+    "static/css/main.9a8fa36f.chunk.css.map": "/ott_app/static/css/main.9a8fa36f.chunk.css.map",
+    "static/js/2.47dcf1af.chunk.js.LICENSE.txt": "/ott_app/static/js/2.47dcf1af.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f087ce59.js",
+    "static/js/2.47dcf1af.chunk.js",
+    "static/css/main.9a8fa36f.chunk.css",
+    "static/js/main.4404d8c3.chunk.js"
+  ]
+}
