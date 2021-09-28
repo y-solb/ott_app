@@ -38,3 +38,9 @@
 .movie__summary {
   color: #aaaaaa;
 }
+
+a {
+  display: contents;
+  text-decoration: none;
+  color: inherit;
+}
